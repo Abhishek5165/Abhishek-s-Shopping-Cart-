@@ -7,7 +7,7 @@
 </p>
 
 <p align="center"> 
-    <img alt="All Stars" src="https://visitor-badge.laobi.icu/badge?   page_id=Abhishek5165.Abhisheks_Shopping_Cart"/>&nbsp;
+    <img alt="All Stars" src="https://visitor-badge.laobi.icu/badge?page_id=Abhishek5165.Abhisheks_Shopping_Cart"/>&nbsp;
     <img src="https://img.shields.io/github/stars/Abhishek5165/Abhisheks_Shopping_Cart" />
     &nbsp;
     <img src="https://img.shields.io/github/forks/Abhishek5165/Abhisheks_Shopping_Cart" />&nbsp;
