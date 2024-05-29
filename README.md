@@ -53,6 +53,10 @@
 6. View your Pending Orders and orders
 7. Contact us
 
+# Demo Images 📸
+
+
+
 ## Admin 🤵‍♂️🤵‍♂️
 1. Register / Login to admin panel
 2. CRUD products
@@ -74,4 +78,13 @@
 - [MySQL](https://www.mysql.com)
 - [HTML](https://www.w3schools.com/html/default.asp)
 - [CSS](https://www.w3schools.com/css/default.asp)
+
+### Show your support
+
+Give a ⭐ if you like this website!
+
+## Contact 🌟
+If you have any query or feedback, feel free to reach out 💖:
+- LinkedIn : https://www.linkedin.com/in/abhishek-verma-600899247/
+- GitHub : https://github.com/Abhishek5165
 
