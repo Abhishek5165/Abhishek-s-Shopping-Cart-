@@ -1,0 +1,528 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.logo {
+  width: 7%;
+  height: 7%;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link.show {
+  color: #ffffff;
+  font-size: 18px;
+}
+
+.nav-link {
+  color: #ffffff;
+  font-size: 18px;
+}
+
+.metal {
+  color: #ffffffff;
+  font-size: 20px;
+}
+
+.card-img-top {
+
+  width: 100%;
+  height: 300px;
+  object-fit: calc(100px + 10px);
+
+}
+
+.brands {
+  background-color: #31363F;
+}
+
+.row {
+  width: 99.92%;
+}
+
+.card {
+  margin-left: 12px;
+  width: 103%;
+}
+
+.Admin {
+  width: 140px;
+  object-fit: contain;
+  margin-left: 30px;
+  margin-top: 20px;
+  border-radius: 20px;
+}
+
+.Ad {
+  width: 101.19%;
+}
+
+.Before_log {
+
+  margin-top: -10px;
+}
+
+.Ad-name {
+  position: relative;
+  left: 15px;
+  font-weight: 550;
+  font-size: 20px;
+  top: -20px;
+}
+
+.but {
+
+  border: none;
+  outline: none;
+  padding: 0;
+  background-color: #687485;
+}
+
+.insert {
+
+  border-radius: 10px;
+  color: #ffffff;
+  background-color: #000;
+  padding: 10px;
+  margin-top: 7px;
+  border: 0;
+}
+
+.field {
+
+  height: 200px;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ffffff;
+}
+
+.nav-link:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+.nav-link:focus {
+  color: #ffffff;
+}
+
+input[type=file]::file-selector-button {
+  border: 2px solid #6c5ce7;
+  font-weight: 550;
+  background-color: #a29bfe;
+  transition: 1s;
+}
+
+input[type=file]::file-selector-button:hover {
+  background-color: #81ecec;
+  border: 2px solid #00cec9;
+}
+
+.body {
+  background-color: #E0FBE2;
+}
+
+.heading_pro {
+  color: #FF5F00;
+  width: 30%;
+  margin: 20px auto;
+  border-bottom: 2px solid black;
+}
+
+.form_label label {
+  color: #000000;
+  font-size: 20px;
+  font-weight: 550;
+}
+
+.form_label select {
+  color: #000000;
+  font-size: 18px;
+  font-weight: 550;
+}
+
+.No_CB {
+
+  text-align: center;
+  color: #FF5F00;
+  font-size: 40px;
+  margin-top: 50px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.related_head {
+  text-align: center;
+  color: rgb(134, 44, 185);
+  font-size: 30px;
+  border-bottom: 2px dotted black;
+  width: 40%;
+  margin: auto;
+  position: relative;
+  bottom: 40px;
+}
+
+.more_products {
+  margin: auto;
+  position: relative;
+  top: 40px;
+  object-fit: cover;
+}
+
+.boxes img {
+  border-radius: 10px;
+  width: 100%;
+  height: 400px;
+  margin-bottom: 20px;
+}
+
+.total:hover {
+  text-decoration: none;
+}
+
+.total {
+  font-weight: 550;
+}
+
+.total_price {
+  border-radius: 10px;
+}
+
+.table tr,
+.table td,
+.table th {
+
+  border: 2px solid black;
+}
+
+.table img {
+  width: 40%;
+  height: 40%;
+  object-fit: cover;
+}
+
+.product_img {
+  width: 20%;
+}
+
+.box-s {
+  padding: 40px;
+  box-shadow: 10px 10px 8px 0 #888888,
+    -10px -10px 8px 0 #888888,
+    10px -10px 8px 0 #888888,
+    -10px 10px 8px 0 #888888;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  border-radius: 20px;
+  position: relative;
+}
+
+.box-s label {
+
+  font-size: 20px;
+  font-weight: 550;
+}
+
+.B {
+  color: darkorange;
+  margin-top: 20px;
+  margin-left: -30px;
+  font-size: 45px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* -------------------------- Payment -------------------- */
+
+.payment-card {
+  width: 60%;
+  margin-left: 28%;
+  height: 100%;
+}
+
+.option {
+  width: 45%;
+  margin-left: -10px;
+  border-left: 2px solid rgb(117, 224, 165);
+}
+
+.option img {
+  margin-top: 20px;
+  width: 100%;
+  object-fit: cover;
+  box-shadow: 10px 10px 8px 0 #888888,
+    -10px -10px 8px 0 #888888,
+    10px -10px 8px 0 #888888,
+    -10px 10px 8px 0 #888888;
+  border-radius: 20px;
+  margin-left: 60px;
+}
+
+.P_image {
+  width: 90%;
+  display: block;
+  height: 100%;
+  margin: auto;
+  padding: 5px;
+  border-radius: 50%;
+  object-fit: contain;
+}
+
+.p_name {
+  background-color: #FF0000;
+}
+
+.back {
+  position: relative;
+  top: 2px;
+}
+
+.form-left {
+  box-shadow: 6px 6px 8px 0 #888888,
+    -6px -6px 8px 0 #888888,
+    6px -6px 8px 0 #888888,
+    -6px 6px 8px 0 #888888;
+  width: 70%;
+  margin: auto;
+}
+
+.edit_page_img,
+.product_i {
+
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+  border: 0.5px solid black;
+  padding: 5px;
+  border-radius: 50%;
+}
+
+.product_i {
+  border-radius: 0;
+}
+
+.user_in {
+  width: 60%;
+  margin-left: 10px;
+  margin-right: 20px;
+}
+
+.user_lab {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.payment {
+
+  background-color: #B0EBB4;
+}
+
+.view_table {
+  margin-bottom: 100px;
+}
+
+.view_table thead td {
+  color: #ffffff;
+  background-color: #FF9A00;
+  font-size: 18px;
+}
+
+.view_table tbody td {
+  font-size: 18px;
+  text-align: center;
+}
+
+.view_table img {
+  width: 35%;
+  height: 25%;
+}
+
+.image_wid {
+  width: 25%;
+}
+
+.user_table tr img {
+  width: 25%;
+  display: block;
+  height: 25%;
+  margin: auto;
+  padding: 5px;
+  border: 2px solid black;
+  object-fit: contain;
+  border-radius: 10px;
+}
+
+.user_i {
+  width: 26%;
+}
+
+.r_img {
+  width: 90%;
+  height: 90%;
+}
+
+.foot {
+  width: 101%;
+}
+
+
+
+/* --------------------Responsive Admin Panel -------------------- */
+
+@media only screen and (max-width: 768px) {
+
+  .metal {
+    width: 100%;
+    font-size: 16px;
+    margin: 10px auto;
+    text-align: center;
+  }
+
+  .admin_container {
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
+    position: relative;
+    left: 10px;
+  }
+
+  .Admin {
+    width: 100px;
+  }
+
+  .insert_container {
+    text-align: left;
+    width: 114%;
+    margin-left: -75px;
+  }
+
+  .heading_pro {
+    width: 75%;
+    text-align: center;
+  }
+
+  .insert_container input {
+    width: 165%;
+  }
+
+  .insert_container select {
+    width: 165%;
+  }
+
+  .admin_body {
+    margin: 0rem !important;
+  }
+
+  .admin_login_heading {
+    margin-top: 20px;
+  }
+
+  .nav-link {
+    margin-left: 12px;
+  }
+
+  .bg-light {
+    padding: 13px;
+  }
+
+  .card {
+    margin-left: 8px;
+    width: 110%;
+  }
+
+  .box-s {
+    padding: 13px;
+    width: 100%;
+    margin-bottom: 30px;
+  }
+
+  .col-12 {
+    margin-left: 27px;
+  }
+
+  .B {
+    margin-left: 0;
+  }
+
+  .No_CB {
+    margin-left: 13px;
+    margin-bottom: 36px;
+  }
+
+  .foot {
+    width: 107.41%;
+    margin-left: -11px;
+  }
+  .footing{
+    margin-left: 11px;
+  }
+
+  .option {
+    display: none;
+  }
+
+  .back {
+    display: block;
+    margin-top: 10px;
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+  }
+  
+  .P_image{
+      
+    width:100%;
+    height: 340px;
+    margin: auto;
+    padding: 5px;
+  }
+
+  .payment-card {
+    width: 109%;
+    margin-left: 0;
+  }
+
+  .more_products {
+    margin-bottom: 75px;
+    margin-left: 20px;
+  }
+
+  .related_head {
+    width: 83%;
+    margin-left: 40px;
+  }
+
+  .boxes {
+    margin-bottom: 20px;
+  }
+
+  .boxes img {
+    width: 112%;
+  }
+
+  .continue {
+    display: none;
+  }
+
+  .brands {
+   margin-left: 12px;
+  }
+
+  .user_profile {
+    margin-left: 0px;
+  }
+
+  .delete_account {
+    width: 110%;
+    position: relative;
+    left: -21px;
+  }
+  .column-td{
+  display: none;
+  }
+}
