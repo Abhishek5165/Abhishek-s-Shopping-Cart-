@@ -38,7 +38,9 @@
   
 :accessibility:&nbsp;  Leveraging core PHP concepts and MySQL database management,I'll ensure seamless integration between the frontend and backend, facilitating smooth user experiences. Additionally, I plan to implement an admin panel to manage user orders and product listings, providing comprehensive control over the website's operations.<br>
 
-:accessibility:&nbsp;  To achieve a modern and responsive design, I'll utilize HTML, CSS, and Bootstrap frameworks, ensuring compatibility across various devices and screen sizes. By undertaking this project, I aim to solidify my understanding of PHP development while honing my skills in database management and web design.</p> <br>
+:accessibility:&nbsp;  To achieve a modern and responsive design, I'll utilize HTML, CSS, and Bootstrap frameworks, ensuring compatibility across various devices and screen sizes. By undertaking this project, I aim to solidify my understanding of PHP development while honing my skills in database management and web design.</p>
+
+### Additionaly ☑️ - I've integrated a PHP mailer library into my project to streamline communication with users. This addition simplifies email sending tasks, enabling features like HTML support and attachments for better user interaction.
 
 # **LIVE DEMO. [TRY NOW](https://predicant-protectio.000webhostapp.com/)** 😍
 
