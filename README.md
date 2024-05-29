@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Abhishek's Shopping Cart 🙂</b></h1>
+  <h1 align="center"><b>Abhishek's Shopping Cart (Trendsetter Threads)🙂</b></h1>
 </p>
 
 <p>
@@ -55,8 +55,23 @@
 6. View your Pending Orders and orders
 7. Contact us
 
-# Demo Images 📸
+# Demo Images - User 📸
 
+## 🅰️ Home Page -
+
+![home](https://github.com/Abhishek5165/Abhisheks_Shopping_Cart/blob/main/Web%20Demo/A1.png)
+
+## 🅱️ User Profile -
+
+![home](https://github.com/Abhishek5165/Abhisheks_Shopping_Cart/blob/main/Web%20Demo/A5.png)
+
+## 🅰️ User Cart Page-
+
+![home](https://github.com/Abhishek5165/Abhisheks_Shopping_Cart/blob/main/Web%20Demo/A2.png)
+
+## 🅱️ Payment Page -
+
+![home](https://github.com/Abhishek5165/Abhisheks_Shopping_Cart/blob/main/Web%20Demo/A3.png)
 
 
 ## Admin 🤵‍♂️🤵‍♂️
@@ -66,6 +81,26 @@
 4. CRUD brands
 5. Manage User payments & Orders
 6. View user
+
+# Demo Images - Admin 📸
+
+## 🅰️ Home Page -
+
+![home](https://github.com/Abhishek5165/Abhisheks_Shopping_Cart/blob/main/Web%20Demo/A13.png)
+
+## 🅱️ View Categories -
+
+![home](https://github.com/Abhishek5165/Abhisheks_Shopping_Cart/blob/main/Web%20Demo/A12.png)
+
+## 🅰️ All products -
+
+![home](https://github.com/Abhishek5165/Abhisheks_Shopping_Cart/blob/main/Web%20Demo/A9.png)
+
+## 🅱️ All Payments -
+
+![home](https://github.com/Abhishek5165/Abhisheks_Shopping_Cart/blob/main/Web%20Demo/A10.png)
+
+
 
 # Installation 🈴
 1. Clone the repository using the command "git clone https://github.com/Abhishek5165/Abhisheks_Shopping_Cart"
