@@ -30,16 +30,18 @@
     
 </p>
 
-### Introduction & idea 
+# Introduction & idea 🫣
 
-<p>I'm currently delving into PHP and database development and I've come up with an exciting learning project: building a user-friendly and responsive e-commerce website.
-The website will incorporate essential functionalities such as user registration, login, and account management, allowing users to easily edit their profiles and securely log in. Furthermore, they'll be able to browse products, add items to their cart, and proceed to checkout for payment processing.
-Leveraging core PHP concepts and MySQL database management, I'll ensure seamless integration between the frontend and backend, facilitating smooth user experiences. Additionally, I plan to implement an admin panel to manage user orders and product listings, providing comprehensive control over the website's operations.
-To achieve a modern and responsive design, I'll utilize HTML, CSS, and Bootstrap frameworks, ensuring compatibility across various devices and screen sizes. By undertaking this project, I aim to solidify my understanding of PHP development while honing my skills in database management and web design.</p>
+<p>I'm currently delving into PHP and database development and I've come up with an exciting learning project: building a user-friendly and responsive e-commerce website.<br>
+The website will incorporate essential functionalities such as user registration, login, and account management, allowing users to easily edit their profiles and securely log in. Furthermore, they'll be able to browse products, add items to their cart, and proceed to checkout for payment processing.<br>
+Leveraging core PHP concepts and MySQL database management,I'll ensure seamless integration between the frontend and backend, facilitating smooth user experiences. Additionally, I plan to implement an admin panel to manage user orders and product listings, providing comprehensive control over the website's operations.<br>
+To achieve a modern and responsive design, I'll utilize HTML, CSS, and Bootstrap frameworks, ensuring compatibility across various devices and screen sizes. By undertaking this project, I aim to solidify my understanding of PHP development while honing my skills in database management and web design.</p> <br>
 
-### Features
+# **LIVE DEMO. [TRY NOW](https://predicant-protectio.000webhostapp.com/)** 😍
 
-Guest
+# Features 🤞
+
+## Guest 🧑‍🤝‍🧑
 1. View Product
 2. Register,Login
 3. Add product to cart
@@ -48,7 +50,7 @@ Guest
 6. View your Pending Orders and orders
 7. Contact us
 
-Admin 
+## Admin 🤵‍♂️🤵‍♂️
 1. Register / Login to admin panel
 2. CRUD products
 3. CRUD categories
@@ -56,14 +58,14 @@ Admin
 5. Manage User payments & Orders
 6. View user
 
-### Installation
-1. Clone the repository using the command "git clone [https://github.com/Abhishek5165/Abhisheks_Shopping_Cart]"
+# Installation 🈴
+1. Clone the repository using the command "git clone https://github.com/Abhishek5165/Abhisheks_Shopping_Cart"
 2. Create database in MySql
 3. Configure the .php file accordingly
 4. Start the Apache and MySQL modules using the XAMPP controller.
-5. Open the browser, type *localhost/my project 
+5. Open the browser, type localhost:3000
 
-## Technologies
+# Technologies ✏️
 - [PHP](https://www.php.net/docs.php)
 - [Bootstrap](https://getbootstrap.com)
 - [MySQL](https://www.mysql.com)
