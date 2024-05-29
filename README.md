@@ -32,13 +32,13 @@
 
 # Introduction & idea 🫣
 
-<p> :accessibility: I'm currently delving into PHP and database development and I've come up with an exciting learning project: building a user-friendly and responsive e-commerce website.<br>
+<p> :accessibility:&nbsp;  I'm currently delving into PHP and database development and I've come up with an exciting learning project: building a user-friendly and responsive e-commerce website.<br>
   
-:accessibility: The website will incorporate essential functionalities such as user registration, login, and account management, allowing users to easily edit their profiles and securely log in. Furthermore, they'll be able to browse products, add items to their cart, and proceed to checkout for payment processing.<br>
+:accessibility:&nbsp;  The website will incorporate essential functionalities such as user registration, login, and account management, allowing users to easily edit their profiles and securely log in. Furthermore, they'll be able to browse products, add items to their cart, and proceed to checkout for payment processing.<br>
   
-:accessibility: Leveraging core PHP concepts and MySQL database management,I'll ensure seamless integration between the frontend and backend, facilitating smooth user experiences. Additionally, I plan to implement an admin panel to manage user orders and product listings, providing comprehensive control over the website's operations.<br>
+:accessibility:&nbsp;  Leveraging core PHP concepts and MySQL database management,I'll ensure seamless integration between the frontend and backend, facilitating smooth user experiences. Additionally, I plan to implement an admin panel to manage user orders and product listings, providing comprehensive control over the website's operations.<br>
 
-:accessibility: To achieve a modern and responsive design, I'll utilize HTML, CSS, and Bootstrap frameworks, ensuring compatibility across various devices and screen sizes. By undertaking this project, I aim to solidify my understanding of PHP development while honing my skills in database management and web design.</p> <br>
+:accessibility:&nbsp;  To achieve a modern and responsive design, I'll utilize HTML, CSS, and Bootstrap frameworks, ensuring compatibility across various devices and screen sizes. By undertaking this project, I aim to solidify my understanding of PHP development while honing my skills in database management and web design.</p> <br>
 
 # **LIVE DEMO. [TRY NOW](https://predicant-protectio.000webhostapp.com/)** 😍
 
