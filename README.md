@@ -42,7 +42,7 @@
 
 ### Additionaly ☑️ - I've integrated a PHP mailer library into my project to streamline communication with users. This addition simplifies email sending tasks, enabling features like HTML support and attachments for better user interaction.
 
-## **LIVE DEMO : [TRY NOW](https://predicant-protectio.000webhostapp.com/)** 😍
+## **LIVE DEMO : [TRY NOW](http://ecom13.infinityfreeapp.com/)** 😍
 
 # Features 🤞
 
